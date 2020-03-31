@@ -24,20 +24,20 @@ background-image:-webkit-linear-gradient(top, aqua,white);
 }
 </style>
 <Div>
-<body>
+<Body>
 <H1>MATH QUIZz<span class="Z">z</span>...</H1>
 <br>
 <br>
 <br>
-<p style="font-size:28px; text-align:center;color:purple";>welcome to the MATH QUIZ. Here.. A few questions are asked.<br>
+<P style="font-size:28px; text-align:center;color:purple";>welcome to the MATH QUIZ. Here.. A few questions are asked.<br>
        Each question carries 50 points.<br>
 <br>
-        <strong style=" color:red"; >Remember</strong>: your incorrect answer will dedect 50 points;
+        <strong style=" color:red"; >Remember</strong>: your incorrect answer will dedect 50 points;</P>
 <br>
-<h3 style="font-size:28px; text-align:center; color:orange";>Fire up your brain</h3>
+<H3 style="font-size:28px; text-align:center; color:orange";>Fire up your brain</H3>
 <a class="start" href="file:///F:/Afnan_assignmet/coding/game/mathquizpage2.html">START</a>
 <br>
 <br>
 </Div>
-   </body>
+   </Body>
 </html>
