@@ -2,6 +2,9 @@
 <style>
 h1{
 text-align:center;
+     background-image:-webkit-linear-gradient(left, red,yellow,orange); 
+    border-radius:5px; 
+    padding:12px;
 }
 .Z{
 font-size:20px;
@@ -20,9 +23,9 @@ body{
 background-image:-webkit-linear-gradient(top, aqua,white);
 }
 </style>
-<div>
+<Div>
 <body>
-<h1 style="background-image:-webkit-linear-gradient(left, red,yellow,orange); border-radius:5px; padding:12px";>MATH QUIZz<span class="Z">z</span>...</h1>
+<H1>MATH QUIZz<span class="Z">z</span>...</H1>
 <br>
 <br>
 <br>
@@ -35,6 +38,6 @@ background-image:-webkit-linear-gradient(top, aqua,white);
 <a class="start" href="file:///F:/Afnan_assignmet/coding/game/mathquizpage2.html">START</a>
 <br>
 <br>
-</div>
+</Div>
    </body>
 </html>
