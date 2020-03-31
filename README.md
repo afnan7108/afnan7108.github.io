@@ -48,7 +48,7 @@ background-image:-webkit-linear-gradient(top, aqua,white);
         <span class="rem">Remember</span>: your incorrect answer will dedect 50 points;</P>
 <br>
 <H3>Fire up your brain</H3>
-<a class="start" href="file:///F:/Afnan_assignmet/coding/game/mathquizpage2.html">START</a>
+<a class="start" href="https://afnan7108.github.io//mathquizpage2.html">START</a>
 <br>
 <br>
      </Body>
