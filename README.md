@@ -9,6 +9,11 @@ text-align:center;
 .Z{
 font-size:20px;
 }
+P{
+     font-size:28px;
+     text-align:center;
+     color:purple;
+     }
 .start{
 background-image:-webkit-linear-gradient(bottom, yellow,orange);
 padding:10px;
@@ -19,6 +24,11 @@ border-radius:3px;
 div{
 text-align:center;
 }
+H3{
+ font-size:28px;
+     text-align:center; 
+     color:orange;     
+     }
 body{
 background-image:-webkit-linear-gradient(top, aqua,white);
 }
@@ -29,12 +39,12 @@ background-image:-webkit-linear-gradient(top, aqua,white);
 <br>
 <br>
 <br>
-<P style="font-size:28px; text-align:center;color:purple";>welcome to the MATH QUIZ. Here.. A few questions are asked.<br>
+<P >welcome to the MATH QUIZ. Here.. A few questions are asked.<br>
        Each question carries 50 points.<br>
 <br>
         <strong style=" color:red"; >Remember</strong>: your incorrect answer will dedect 50 points;</P>
 <br>
-<H3 style="font-size:28px; text-align:center; color:orange";>Fire up your brain</H3>
+<H3>Fire up your brain</H3>
 <a class="start" href="file:///F:/Afnan_assignmet/coding/game/mathquizpage2.html">START</a>
 <br>
 <br>
