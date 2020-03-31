@@ -21,7 +21,10 @@ color:black;
 border-radius:3px;
     text-decoration-style: initial;
 }
-div{
+.rem{
+  color:red;   
+     }     
+Div{
 text-align:center;
 }
 H3{
@@ -42,12 +45,12 @@ background-image:-webkit-linear-gradient(top, aqua,white);
 <P >welcome to the MATH QUIZ. Here.. A few questions are asked.<br>
        Each question carries 50 points.<br>
 <br>
-        <strong style=" color:red"; >Remember</strong>: your incorrect answer will dedect 50 points;</P>
+        <span class="rem">Remember</span>: your incorrect answer will dedect 50 points;</P>
 <br>
 <H3>Fire up your brain</H3>
 <a class="start" href="file:///F:/Afnan_assignmet/coding/game/mathquizpage2.html">START</a>
 <br>
 <br>
-</Div>
-   </Body>
+     </Body>
+  </Div>   
 </html>
