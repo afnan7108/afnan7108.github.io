@@ -2,7 +2,7 @@
 <style>
 h1{
 text-align:center;
-     background-image:-webkit-linear-gradient(left, red,yellow,orange); 
+     background-image:-webkit-linear-gradient(left, aqua,blue,aqua); 
     border-radius:5px; 
     padding:12px;
 }
@@ -15,7 +15,7 @@ P{
      color:purple;
      }
 .start{
-background-image:-webkit-linear-gradient(bottom, yellow,orange);
+background-image:-webkit-linear-gradient(bottom, blue,navy,blue);
 padding:10px;
 color:black;
 border-radius:3px;
@@ -33,7 +33,7 @@ H3{
      color:orange;     
      }
 body{
-background-image:-webkit-linear-gradient(top, aqua,white);
+background-image:-webkit-linear-gradient(top, siver,white,silver);
 }
 </style>
 <Div>
@@ -42,10 +42,10 @@ background-image:-webkit-linear-gradient(top, aqua,white);
 <br>
 <br>
 <br>
-<P >welcome to the MATH QUIZ. Here.. A few questions are asked.<br>
-       Each question carries 50 points.<br>
+<P >welcome to the  QUIZ. Here.. A few Riddles are asked.<br>
+      be the first one to answer it <br>
 <br>
-        <span class="rem">Remember</span>: your incorrect answer will dedect 50 points;</P>
+        <span class="rem">Remember</span>:The answers are is  jumbled;</P>
 <br>
 <H3>Fire up your brain</H3>
 <a class="start" href="https://afnan7108.github.io//mathquizpage2.html">START</a>
