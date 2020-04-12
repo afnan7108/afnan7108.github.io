@@ -31,7 +31,7 @@ text-align:center;
 H3{
  font-size:28px;
      text-align:center; 
-     color:orange;     
+     color:white;     
      }
 body{
 background-image:-webkit-linear-gradient(top, grey,white,grey);
@@ -39,7 +39,7 @@ background-image:-webkit-linear-gradient(top, grey,white,grey);
 </style>
 <Div>
 <Body>
-<H1>MATH QUIZz<span class="Z">z</span>...</H1>
+<H1>RIDDLEZz<span class="Z">z</span>...</H1>
 <br>
 <br>
 <br>
