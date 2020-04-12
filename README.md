@@ -44,11 +44,10 @@ background-image:-webkit-linear-gradient(top, grey,white,grey);
 <br>
 <br>
 <P >welcome to the  QUIZ. Here.. A few Riddles are asked.<br>
-    the options are jumbledfind the coorect answer <br>
+    The options are jumbled find the correct answer <br>
 <br>
-        <span class="rem">Remember</span>:evey jumbled word shuld be rearranged and sent to ME;</P>
-<br>
-<H3>Fire up your brain</H3>
+        <span class="rem">Remember</span>: Evey jumbled word should be re-arranged and sent to ME correctly;</P>
+<br>r<H3>Fire up your brain</H3>
 <a class="start" href="https://afnan7108.github.io//mathquizpage2.html">START</a>
 <br>
 <br>
