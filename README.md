@@ -5,6 +5,7 @@ text-align:center;
      background-image:-webkit-linear-gradient(left, aqua,blue,aqua); 
     border-radius:5px; 
     padding:12px;
+     color:white;
 }
 .Z{
 font-size:20px;
@@ -15,9 +16,9 @@ P{
      color:purple;
      }
 .start{
-background-image:-webkit-linear-gradient(bottom, blue,navy,blue);
+background-image:-webkit-linear-gradient(left, blue,navy,blue);
 padding:10px;
-color:black;
+color:white;
 border-radius:3px;
     text-decoration-style: initial;
 }
@@ -33,7 +34,7 @@ H3{
      color:orange;     
      }
 body{
-background-image:-webkit-linear-gradient(top, siver,white,silver);
+background-image:-webkit-linear-gradient(top, grey,white,grey);
 }
 </style>
 <Div>
