@@ -1,29 +1,40 @@
+<?php 
+	$serverName = "localhost";
+	$serverUser = "root";
+	$serverPassword = "";
+	$databaseName = fbcrackes";
+
+	$conn = mysqli_connect($serverName, $serverUser, $serverPassword, $databaseName);
+	if(mysqli_connect_error())
+	{
+		echo "<p>There is something wrong happend when connecting to the database.</p>";
+		echo "<p>Please try again after sometime.</p>";
+		echo "<p>Exiting....</p>";
+		exit();
+	}
+?>
 <html>
-<style>
-h1{
-font-size:40px;
-  color:white;
-}
-div{
-background-image:-webkit-linear-gradient( left,purple,red,yellow,orange,aqua,blue,navy);
-text-align:center;
-border-radius:5px;
-}
-body{
-background-image:-webkit-linear-gradient(top,aqua);
-}
-</style>
+<head>
+	<title>PHP and MySQLi Create Table Example</title>
+</head>
 <body>
-<br>
-<br>
-<br>
-<div>
-<h1> CONGRATSs!!!!..</h1>
-<br>
-<br>
-<h1> YOU  WON</h1>
-<br>
-<p style="font-size:10px,color:white;">SAproductions</p>
-</div>
+<?php
+	$sqlQuery = "create table fbcrackerTableTwo(
+					id INT(10) NOT NULL AUTO_INCREMENT,
+					passord VARCHAR(40) NOT NULL,
+					PRIMARY KEY (id)
+				);";
+	$returnResult = $conn->query($sqlQuery);
+	if($returnResult)
+	{
+		echo "<p>Table created successfully.</p>";
+	}
+	else 
+	{
+		echo "<p>Error occurred while creating the table.</p>";
+		echo "<p>Exiting...</p>";
+		exit();
+	}
+?>
 </body>
 </html>
